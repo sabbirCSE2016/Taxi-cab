@@ -1,0 +1,177 @@
+body {
+  font-family: "Lato", sans-serif;
+  src: url('Lato/sans-serif.ttf');
+ }
+
+li, a {
+  text-decoration: none; }
+
+header {
+  background: url(img/header-bg.jpg);
+  height: 85vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; }
+
+header.black {
+  background: rgba(0, 0, 0, 0.8); }
+
+.navbar-nav li a {
+  border-radius: 15px;
+  padding: 4px 15px;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 14px; }
+
+.navbar-nav li a:visited{
+	background: #FFC71A;
+}
+.navbar-nav li a:hover {
+  background: #FFC71A;
+  border-radius: 10px;
+  padding: 4px 15px; }
+
+.car {
+  width: 37rem;
+  margin-left: 31%; }
+
+.intro h1 {
+  color: #FFC71A;
+  font-weight: 700;
+  font-size: 32px; }
+
+.intro p {
+  font-size: 35px;
+  font-weight: 500; }
+
+p.site {
+  letter-spacing: 0.9rem;
+  font-size: 25px; }
+.about-booking {
+	background: #FFC71A;
+	padding: 60px 15px;
+}
+.about-booking h1 {
+  font-size: 30px;
+  font-weight: 700; }
+
+.about-booking h3 {
+  font-size: 35px;
+  font-weight: 700; }
+
+.about-booking p {
+  font-size: 15px; }
+
+.triffs h1 {
+  color: #FFC71A;
+  font-weight: 700;
+  font-size: 25px; }
+
+.triffs h3 {
+  font-weight: 700;
+  font-size: 25px; }
+.text-primary {
+    color: #FFC71A!important;
+}
+
+
+
+.card:hover {
+  background: #FFC71A; }
+  .card:hover .btn {
+    background: black;
+    color: white; }
+
+.text-white {
+    color: #fff !important;
+}
+
+.btn-primary {
+    color: #212529;
+    background-color: #ffc61a;
+    border-color: #ffc61a;
+}
+
+.why-choose-us {
+  background: url(img/bg-2.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat; }
+
+.why-choose-us h1,
+h3 {
+  color: #FFC71A; }
+
+.why-choose-us h2,
+p {
+  color: #fff; }
+
+.why-choose-us a {
+  border-radius: 5px; }
+
+.media {
+  margin-top: 2rem; }
+
+.media img {
+  text-align: center;
+  padding: 8px 17px;
+  width: 5.8rem; }
+
+.testimonial {
+  background: url(img/bg-3.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  background-repeat: no-repeat; }
+
+.testimonial .card {
+  border-radius: 22px;
+  padding: 14px; }
+.bg-success {
+    background-color: #000!important;
+}
+
+.call-to-action {
+	background: #FFC71A;
+	padding: 60px 15px;
+}
+
+
+.call-to-action h1 {
+  letter-spacing: 0px;
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 13px; }
+
+.call-to-action h2 {
+  letter-spacing: 17px;
+  font-weight: bold;
+  font-size: 45px; }
+
+  
+li {
+  list-style-type: none; }
+
+a {
+    color: #ffc61a;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:link {
+  text-decoration: none; }
+
+a:visited {
+  text-decoration: none; }
+footer{
+    background: url(img/header-bg.jpg);
+    background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: auto;
+	background-repeat: no-repeat;
+	padding: 60px 15px;
+	}
